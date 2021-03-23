@@ -76,5 +76,10 @@ This repository is mainly based on [VL-BERT](https://github.com/jackroos/VL-BERT
 # Citation
 Please cite our paper if you find the paper or our code help your research!
 ```
-Meng-Jiun Chiou, Roger Zimmermann, and Jiashi Feng. "Visual Relationship Detection with Visual-Linguistic Knowledge from Multimodal Representations." arXiv preprint arXiv:2009.04965 (2020).
+@article{chiou2020rvl,
+  title={RVL-BERT: Visual Relationship Detection with Visual-Linguistic Knowledge from Pre-trained Representations},
+  author={Chiou, Meng-Jiun and Zimmermann, Roger and Feng, Jiashi},
+  journal={arXiv preprint arXiv:2009.04965},
+  year={2020}
+}
 ```
