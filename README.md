@@ -1,6 +1,7 @@
 # RVL-BERT
 This repository accompanies our IEEE Access paper "[Visual Relationship Detection with Visual-Linguistic Knowledge from Multimodal Representations](https://arxiv.org/abs/2009.04965)" and contains validation experiments code and the models on the SpatialSense and the VRD dataset.
 
+![Image of RVL-BERT architecture](rvl-bert.jpg)
 
 ## Installation
 ```
