@@ -73,5 +73,5 @@ python vrd/test.py --cfg cfgs/vrd/basic_vl_s_m.yaml --ckpt checkpoints/vrd/basic
 # Citation
 Please cite our paper if you find the paper or our code help your research!
 ```
-Chiou, Meng-Jiun, Roger Zimmermann, and Jiashi Feng. "Visual Relationship Detection with Visual-Linguistic Knowledge from Multimodal Representations." arXiv preprint arXiv:2009.04965 (2020).
+Meng-Jiun Chiou, Roger Zimmermann, and Jiashi Feng. "Visual Relationship Detection with Visual-Linguistic Knowledge from Multimodal Representations." arXiv preprint arXiv:2009.04965 (2020).
 ```
