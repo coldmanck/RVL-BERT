@@ -70,6 +70,9 @@ python vrd/test.py --cfg cfgs/vrd/basic_vl_s.yaml --ckpt checkpoints/vrd/basic-v
 python vrd/test.py --cfg cfgs/vrd/basic_vl_s_m.yaml --ckpt checkpoints/vrd/basic-vl-s-m-e59.model --bs 1 --gpus 0 --model-dir ./ --result-path results/ --result-name vrd_basic_vl --split test --log-dir logs/
 ```
 
+# Credit
+This repository is mainly based on [VL-BERT](https://github.com/jackroos/VL-BERT).
+
 # Citation
 Please cite our paper if you find the paper or our code help your research!
 ```
