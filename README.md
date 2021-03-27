@@ -1,5 +1,5 @@
 # RVL-BERT
-This repository accompanies our IEEE Access paper "[Visual Relationship Detection with Visual-Linguistic Knowledge from Multimodal Representations](https://arxiv.org/abs/2009.04965)" and contains validation experiments code and the models on the SpatialSense and the VRD dataset.
+This repository accompanies our IEEE Access paper "[Visual Relationship Detection with Visual-Linguistic Knowledge from Multimodal Representations](https://ieeexplore.ieee.org/document/9387302)" and contains validation experiments code and the models on the SpatialSense and the VRD dataset.
 
 ![Image of RVL-BERT architecture](rvl-bert.jpg)
 
@@ -77,10 +77,13 @@ This repository is mainly based on [VL-BERT](https://github.com/jackroos/VL-BERT
 # Citation
 Please cite our paper if you find the paper or our code help your research!
 ```
-@article{chiou2020rvl,
-  title={RVL-BERT: Visual Relationship Detection with Visual-Linguistic Knowledge from Pre-trained Representations},
-  author={Chiou, Meng-Jiun and Zimmermann, Roger and Feng, Jiashi},
-  journal={arXiv preprint arXiv:2009.04965},
-  year={2020}
-}
+@ARTICLE{9387302,
+  author={M. -J. {Chiou} and R. {Zimmermann} and J. {Feng}},
+  journal={IEEE Access}, 
+  title={Visual Relationship Detection with Visual-Linguistic Knowledge from Multimodal Representations}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/ACCESS.2021.3069041}}
 ```
