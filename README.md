@@ -80,10 +80,10 @@ Please cite our paper if you find the paper or our code help your research!
 @ARTICLE{9387302,
   author={M. -J. {Chiou} and R. {Zimmermann} and J. {Feng}},
   journal={IEEE Access}, 
-  title={Visual Relationship Detection with Visual-Linguistic Knowledge from Multimodal Representations}, 
+  title={Visual Relationship Detection With Visual-Linguistic Knowledge From Multimodal Representations}, 
   year={2021},
-  volume={},
+  volume={9},
   number={},
-  pages={1-1},
+  pages={50441-50451},
   doi={10.1109/ACCESS.2021.3069041}}
 ```
