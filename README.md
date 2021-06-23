@@ -4,7 +4,7 @@ This repository accompanies our IEEE Access paper "[Visual Relationship Detectio
 ![Image of RVL-BERT architecture](rvl-bert.jpg)
 
 ## Installation
-This project is constructed with PyTorch 1.1.0 and CUDA 9.0 and largely based on [VL-BERT](https://github.com/jackroos/VL-BERT). 
+This project is constructed with Python 3.6, PyTorch 1.1.0 and CUDA 9.0 and largely based on [VL-BERT](https://github.com/jackroos/VL-BERT). 
 
 Please follow [the original instruction](https://github.com/jackroos/VL-BERT/tree/master#environment) to install an conda environment. 
 
