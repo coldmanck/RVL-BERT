@@ -4,16 +4,9 @@ This repository accompanies our IEEE Access paper "[Visual Relationship Detectio
 ![Image of RVL-BERT architecture](rvl-bert.jpg)
 
 ## Installation
-```
-conda create -n rvl-bert python=3.6 scipy numpy
-conda activate rvl-bert
-# Go to https://pytorch.org/ to install pytorch=1.1.0 before proceeding
-# Can run: conda install pytorch=1.1.0 cudatoolkit=9.0 -c pytorch
-pip install Cython
-pip -r requirements.txt
-./scripts/init.sh
-```
+This project is constructed with PyTorch 1.1.0 and CUDA 9.0 and largely based on [VL-BERT](https://github.com/jackroos/VL-BERT). 
 
+Please follow [the original instruction](https://github.com/jackroos/VL-BERT/tree/master#environment) to install an conda environment. 
 
 ## Dataset
 ### SpatialSense
