@@ -14,7 +14,7 @@ Please follow [the original instruction](https://github.com/jackroos/VL-BERT/tre
 2. Put the files under `$RVL_BERT_ROOT/data/spasen` and unzip the `images.tar.gz` as `images/` there. Ensure there're two folders (`flickr/` and `nyu`) below `$RVL_BERT_ROOT/data/spasen/images/`.
 
 ### VRD
-1. Download the VRD dataset [images](http://imagenet.stanford.edu/internal/jcjohns/scene_graphs/sg_dataset.zip) and [annotations](https://drive.google.com/file/d/16hU27W3T5Df7sPmioE-jPdJAlpMS3V3x/view?usp=sharing)
+1. Download the VRD dataset [images](http://imagenet.stanford.edu/internal/jcjohns/scene_graphs/sg_dataset.zip) (Backup: download `sg_dataset.zip` from [Baidu](https://aistudio.baidu.com/aistudio/datasetdetail/57355)) and [annotations](https://drive.google.com/file/d/16hU27W3T5Df7sPmioE-jPdJAlpMS3V3x/view?usp=sharing)
 2. Put the `sg_train_images/` and `sg_test_images/` folders under `$RVL_BERT_ROOT/data/vrd/images`.
 3. Put all `.json` files under `$RVL_BERT_ROOT/data/vrd/`.
 
