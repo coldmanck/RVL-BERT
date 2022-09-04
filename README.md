@@ -10,28 +10,28 @@ Please follow [the original instruction](https://github.com/jackroos/VL-BERT/tre
 
 ## Dataset
 ### SpatialSense
-1. Download SpatialSense dataset from https://drive.google.com/drive/folders/125fgCq-1YYfKOAxRxVEdmnyZ7sKWlyqZ 
+1. Download the SpatialSense dataset [here](https://drive.google.com/drive/folders/125fgCq-1YYfKOAxRxVEdmnyZ7sKWlyqZ).
 2. Put the files under `$RVL_BERT_ROOT/data/spasen` and unzip the `images.tar.gz` as `images/` there. Ensure there're two folders (`flickr/` and `nyu`) below `$RVL_BERT_ROOT/data/spasen/images/`.
 
 ### VRD
-1. Download the VRD dataset [images](http://imagenet.stanford.edu/internal/jcjohns/scene_graphs/sg_dataset.zip) (Backup: download `sg_dataset.zip` from [Baidu](https://aistudio.baidu.com/aistudio/datasetdetail/57355)) and [annotations](https://drive.google.com/file/d/16hU27W3T5Df7sPmioE-jPdJAlpMS3V3x/view?usp=sharing)
+1. Download the VRD dataset: [images](http://imagenet.stanford.edu/internal/jcjohns/scene_graphs/sg_dataset.zip) (Backup: download `sg_dataset.zip` from [Baidu](https://aistudio.baidu.com/aistudio/datasetdetail/57355)) and [annotations](https://drive.google.com/file/d/1O_75PKcO6EKBTDQn_5LNgipHdtqakQVN/view?usp=sharing)
 2. Put the `sg_train_images/` and `sg_test_images/` folders under `$RVL_BERT_ROOT/data/vrd/images`.
 3. Put all `.json` files under `$RVL_BERT_ROOT/data/vrd/`.
 
 
 ## Checkpoints & Pretrained Weights
 ### Common
-Download the pretrained weights from https://drive.google.com/file/d/1vEPOmQwFuBpJaO2ek5bC_rl2CLkgaxEk/view?usp=sharing and put the `pretrained_model/` folder under `$RVL_BERT_ROOT/model/`.
+Download the pretrained weights [here](https://drive.google.com/file/d/15iis29-5j8Gz1iHl7YoX3XayjsRiDiFi/view?usp=sharing) and put the `pretrained_model/` folder under `$RVL_BERT_ROOT/model/`.
 
 ### SpatialSense
-Download the trained checkpoint from https://drive.google.com/file/d/1G26POFKTSrkxl1STdPi4a-Rqrphdt8oC/view?usp=sharing and put the `.model` file under `$RVL_BERT_ROOT/checkpoints/spasen/`.
+Download the trained checkpoint [here](https://drive.google.com/file/d/1l-OuXU2u2BB8g-aAqDPV2c_xKWSuY7B9/view?usp=sharing) and put the `.model` file under `$RVL_BERT_ROOT/checkpoints/spasen/`.
 
 ### VRD
 Download the trained checkpoints and put the `.model` files under `$RVL_BERT_ROOT/checkpoints/vrd/`:
-- [Basic model](https://drive.google.com/file/d/1mx8aDVGm4HoGp5zcCmCziLJbJxC93WhH/view?usp=sharing)
-- [Basic + VL](https://drive.google.com/file/d/10d1Ghf2LsjwPLxfaJcheKbz7DMpZrru5/view?usp=sharing)
-- [Basic + VL + S](https://drive.google.com/file/d/1NQImpyp5Ddi66SUSs9TH2r1NO0uLU8Yh/view?usp=sharing)
-- [Full model](https://drive.google.com/file/d/1G_QnD3hI-M8O0-k1PqvdP9oBul7thCze/view?usp=sharing)
+- [Basic model](https://drive.google.com/file/d/1ZtHiRpomuygtP0q3mw2cT-ngNqNJPZB0/view?usp=sharing)
+- [Basic + VL](https://drive.google.com/file/d/1T2AKtgGlO2oRw9u_aZxkrOK72jq0Ah2-/view?usp=sharing)
+- [Basic + VL + S](https://drive.google.com/file/d/1JccPla2QYOMS3n4r-TCdNRvRIQk0ZcCu/view?usp=sharing)
+- [Full model](https://drive.google.com/file/d/1G7cvBhNryXEOsy9DxaU-mJoSFRRitchZ/view?usp=sharing)
 
 
 ## Validation
